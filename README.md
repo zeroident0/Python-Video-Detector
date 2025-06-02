@@ -1,4 +1,4 @@
-# Python-Video-Detector
+
 # YOLOv8 Object Detection with Night Vision
 
 ![Demo](detect.PNG)
