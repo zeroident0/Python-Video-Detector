@@ -1,5 +1,5 @@
 
-# YOLOv8 Object Detection with Night Vision
+# Python Object Detection with Night Vision
 
 ![Demo](detect.PNG)
 
@@ -24,5 +24,5 @@ A Python application that performs real-time object detection using YOLOv8 with 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/yolov8-night-vision.git
-   cd yolov8-night-vision
+   git clone https://github.com/yourusername/yolov8-night-vision.git](https://github.com/zeroident0/Python-Video-Detector.git
+   cd python-video-detector
