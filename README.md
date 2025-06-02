@@ -1,7 +1,7 @@
 # Python-Video-Detector
 # YOLOv8 Object Detection with Night Vision
 
-![Demo](detect.jpg)
+![Demo](detect.PNG)
 
 A Python application that performs real-time object detection using YOLOv8 with a toggleable night vision mode. The project combines Ultralytics YOLOv8 for object detection with OpenCV for video processing and night vision effects.
 
